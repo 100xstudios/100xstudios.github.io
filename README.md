@@ -43,6 +43,7 @@ Users can harness two primary commands:
 <p align="center">
 <img width="439" alt="image" src="https://github.com/100xstudios/EverbuzzBot/assets/48356842/d577a287-98b7-4f03-b574-d92bbb7915b8">
 </p>
+
 ---
 
 #### Additional Information:
