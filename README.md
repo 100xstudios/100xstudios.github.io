@@ -6,7 +6,7 @@ Welcome to HoneylandUtilities for Discord, a creation by ThorLabs, a subsidiary 
 
 ## 🛠️ Discord Utilities We Offer:
 
-### 1. Everbuzz Bot: 
+### 1. [Everbuzz](https://github.com/100xstudios/HoneylandUtilities/blob/master/Everbuzz.md) Bot: 
 #### **Shard Optimizer **:
    - **What it does**: Provides shard combination recommendations to achieve specific game stats seamlessly in your Discord chat.
    - **How to use**: Command it with `$shard` followed by your current stats, desired zone, and level cap.
