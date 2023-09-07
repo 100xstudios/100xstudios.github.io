@@ -39,8 +39,10 @@ Users can harness two primary commands:
    - **Usage**: `$cost <current_stat> <level_cap> <desired_zone> <upgrade_cost> <shard_cost>`
    - **Description**: This command integrates the costs of upgrades and shards, offering users a cost-effective path to their desired zone.
    - **Example**: `$cost 150 20 5 1 4` - Users will receive guidance on navigating to Zone 5 starting from a stat of 150, with a level cap of 20, each upgrade costing 1 unit, and each shard priced at 4 units.
-<img width="408" alt="image" src="https://github.com/100xstudios/EverbuzzBot/assets/48356842/42f30cea-6461-485f-816b-9d57c24e73b9">
 
+<p align="center">
+<img width="408" alt="image" src="https://github.com/100xstudios/EverbuzzBot/assets/48356842/42f30cea-6461-485f-816b-9d57c24e73b9">
+</p>
 ---
 
 #### Additional Information:
