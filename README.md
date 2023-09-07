@@ -1,4 +1,4 @@
-# HoneylandUtilities for Discord by Thorlabs 🍯🤖
+# HoneylandUtilities for Discord by ThorLabs 🍯🤖
 
 Welcome to HoneylandUtilities for Discord, a creation by ThorLabs, a subsidiary of 100xStudios . We present a suite of utility tools designed to elevate and streamline your Honeyland experience directly within Discord. For strategizing your gameplay, our utilities are geared to offer the most convenient and efficient solutions.
 
