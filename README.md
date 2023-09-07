@@ -48,15 +48,6 @@ Users can harness two primary commands:
 
 #### Additional Information:
 
-- **Shard Types**:
-  - The bot recognizes these shard types:
-    - `c`: Common
-    - `r`: Rare
-    - `e`: Epic
-    - `l`: Legendary
-    - `m`: Mythic
-    - `all`: All types
-
 - **Zone Thresholds**: Predefined zone thresholds are embedded in the bot's logic, determining a user's zone placement based on their stat.
 
 - **Errors and Validations**: Comprehensive error handling ensures that any erroneous inputs or internal issues result in user-friendly error messages. These messages guide the user towards the correct path.
