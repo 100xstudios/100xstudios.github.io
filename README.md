@@ -30,11 +30,14 @@ Users can harness two primary commands:
    - **Usage**: `$shard <current_stat> <level_cap> <desired_zone>`
    - **Description**: With the current stats, level cap, and desired zone as inputs, this command yields the most efficient route to achieve the specified zone.
    - **Example**: `$shard 150 20 5` - The bot will strategize the best approach to get to Zone 5 with a starting stat of 150 and an allowable level cap of 20.
+<img width="401" alt="image" src="https://github.com/100xstudios/EverbuzzBot/assets/48356842/a1196336-c9a2-44c4-b7db-95fc16c4ed5e">
+
 
 2. **$cost**:
    - **Usage**: `$cost <current_stat> <level_cap> <desired_zone> <upgrade_cost> <shard_cost>`
    - **Description**: This command integrates the costs of upgrades and shards, offering users a cost-effective path to their desired zone.
    - **Example**: `$cost 150 20 5 1 4` - Users will receive guidance on navigating to Zone 5 starting from a stat of 150, with a level cap of 20, each upgrade costing 1 unit, and each shard priced at 4 units.
+<img width="408" alt="image" src="https://github.com/100xstudios/EverbuzzBot/assets/48356842/42f30cea-6461-485f-816b-9d57c24e73b9">
 
 ---
 
