@@ -1,12 +1,12 @@
 # HoneylandUtilities for Discord by ThorLabs 🍯🤖
 
-Welcome to HoneylandUtilities for Discord, a creation by ThorLabs, a subsidiary of 100xStudios . We present a suite of utility tools designed to elevate and streamline your Honeyland experience directly within Discord. For strategizing your gameplay, our utilities are geared to offer the most convenient and efficient solutions.
+Welcome to HoneylandUtilities for Discord, a creation by ThorLabs. We present a suite of utility tools designed to elevate and streamline your Honeyland experience directly within Discord. For strategizing your gameplay, our utilities are geared to offer the most convenient and efficient solutions.
 
 ---
 
 ## 🛠️ Discord Utilities We Offer:
 
-### 1. [Everbuzz](https://github.com/100xstudios/HoneylandUtilities/blob/master/Everbuzz.md) Bot: 
+### 1. [Everbuzz](https://github.com/thorlabsDev/HoneylandUtilities/blob/master/Everbuzz.md) Bot: 
 #### **Shard Optimizer **:
    - **What it does**: Provides shard combination recommendations to achieve specific game stats seamlessly in your Discord chat.
    - **How to use**: Command it with `$shard` followed by your current stats, desired zone, and level cap.
@@ -17,7 +17,7 @@ Welcome to HoneylandUtilities for Discord, a creation by ThorLabs, a subsidiary 
    - **How to use**: Simply invoke `$cost` and input your current stats, desired zone, and shard costs.
    - **Algorithm**: Utilizes dynamic programming for cost-effective strategy suggestions.
 
-####  [CLICK](https://github.com/100xstudios/HoneylandUtilities/blob/master/Everbuzz.md) for detailed bot documentation and learn how to access it.
+####  [CLICK](https://github.com/thorlabsDev/HoneylandUtilities/blob/master/Everbuzz.md) for detailed bot documentation and learn how to access it.
 ---
 
 
