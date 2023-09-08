@@ -17,7 +17,7 @@ Welcome to HoneylandUtilities for Discord, a creation by ThorLabs, a subsidiary 
    - **How to use**: Simply invoke `$cost` and input your current stats, desired zone, and shard costs.
    - **Algorithm**: Utilizes dynamic programming for cost-effective strategy suggestions.
 
-#### [Detailed Bot Documentation](https://github.com/100xstudios/HoneylandUtilities/blob/master/Everbuzz.md) Bot: 
+#### [CLICK] (https://github.com/100xstudios/HoneylandUtilities/blob/master/Everbuzz.md) for detailed bot documentation and learn how to access it.
 ---
 
 
