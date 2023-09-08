@@ -8,11 +8,22 @@ Welcome to the Shard Optimization Discord Bot documentation. This bot provides a
 
 ---
 
-#### Basic Setup:
+#### Accessing the Bot:
 
-1. **Bot Initialization**: To initialize the bot, ensure it's running. The bot uses the `discord` Python package to communicate with the Discord API. Once active, the bot will display a confirmation message, signifying a successful login.
-2. **Intents**: The bot operates with `intents`, a Discord API feature that grants bots access to specific events. This bot is equipped to handle all events.
+1. **Join ThorLabs Discord Server**: 
 
+2. **Do Verification**:
+<p align="center">
+   <img width="810" alt="image" src="https://github.com/100xstudios/HoneylandUtilities/assets/48356842/47f23225-25fd-48ce-ac93-14982d871aa8">
+</p>
+3. **React** to the "Honeyland Player" role and open bot channel
+<p align="center">
+<img width="1009" alt="image" src="https://github.com/100xstudios/HoneylandUtilities/assets/48356842/d8f767d6-0c99-4073-8049-9888c2b0b35d">
+</p>
+4. **Go to the Channel**
+<p align="center">
+<img width="766" alt="image" src="https://github.com/100xstudios/HoneylandUtilities/assets/48356842/6e1d49c1-ce0a-43bd-9a7a-1eaeafcc5697">
+<p align="center">
 ---
 
 #### Command Overview:
