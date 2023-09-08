@@ -1,4 +1,4 @@
-### Everbuzz Bot: Endurance Upgrade Optimizer for Honeyland Documentation
+### Everbuzz Bot: Endurance Upgrade Optimizer for Honeyland Game
 
 ---
 
